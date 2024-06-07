@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'test';
+  ngOnInit() {
+  console.log("Hum First!! hum First");
+  }
+
 }
